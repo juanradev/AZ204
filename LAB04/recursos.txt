@@ -1,0 +1,23 @@
+sql server
+==========
+user: testuser
+password TestPa55w.rd
+
+bbdd AdventureWorks 
+==========
+Cadena conexión: Ojo depues de copiarla ponerle la Password
+	Server=tcp:polysqlsrvrjrdf.database.windows.net,1433;Initial Catalog=AdventureWorks;Persist Security Info=False;User ID=testuser;Password=TestPa55w.rd;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;
+
+url imagenes
+==========
+	https://polystorjrdf.blob.core.windows.net/images
+
+COSMOS DB
+==========
+CADENA DE CONEXIÓN PRINCIPAL
+	AccountEndpoint=https://polycosmosjrdf.documents.azure.com:443/;AccountKey=X0l8pzR3s4zCJvhthWTc40tANui8GLTGlAV7g7VDDfq2lNG356K8JPn3JjqWUMQ1TGrxXUMNq3A6IrP1rSYnZg==;
+
+
+lo utilizamos en AdventureWorks.Migrate\Program.cs y en AdventureWorks.Web\appsettings.json
+
+
