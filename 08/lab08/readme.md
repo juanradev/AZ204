@@ -10,10 +10,10 @@
 
 ----
 
-Creamos los recursos
-web app con una aplicacion docker 
-api mannagent con la api creada
-añadimos operaciones y polítcas
+Creamos los recursos  
+web app con una aplicacion docker   
+api mannagent con la api creada  
+añadimos operaciones y polítcas  
 
 ---- 
 
@@ -166,11 +166,11 @@ modificamos el xml
 
 Finalmente testeamos
 
-[TEST](imagenes/c19.PNG)
+![TEST](imagenes/c19.PNG)
 
-[TEST](imagenes/c18.PNG)
+![TEST](imagenes/c18.PNG)
 
 
 Para rematar nos eliminaos el recurso desde Powershel
 
-[TEST](imagenes/c20.PNG)
+![drop](imagenes/c20.PNG)
